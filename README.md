@@ -24,6 +24,7 @@ An **extended abstract** is a concise summary of a research project or study tha
       4. **Results**
       5. **Conclusion**
       6. **Links**
+      7. **References**
   - The **Data & Methods** and **Results** sections should take up the majority of your three pages.
 
 - **Required Files for Compilation:**
