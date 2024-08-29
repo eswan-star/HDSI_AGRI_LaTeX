@@ -2,13 +2,13 @@
 
 **Latex structure required for the HDSI Agri Datathon Write-Up as an extended abstract:**
 
-An **extended abstract** is a concise summary of a research project or study that provides an overview of its objectives, data & methods, results, and conclusions. Typically longer than a standard abstract, it offers more detail while still being brief, often including key figures, tables, or references to support the presented information. The purpose is to give judges a clear understanding of your project and its significance, allowing them to assess its relevance to their interests or field.
+An **extended abstract** is a concise summary of a research project or study that provides an overview of its objectives, data & methods, results, and conclusions. Typically longer than a standard abstract, it offers more detail while still being brief, often including key figures, tables, or references to support the presented information. The purpose is to give judges a clear understanding of your project, allowing them to assess your team's strategy to accomplish the selected prompt.
 
 ## Instructions for Your Write-Up:
 
 - **Work in the** `HDSI_AGRI_template.tex` **and** `references.bib` **files for your write-up.**
   - These files provide an example of text, several tables and equations, images that span both columns and span a single column, and a bibliography.
-  - **Note:** Your write-up does not have to match this example. You are free to edit and reformat as you wish. 
+  - **Note:** Your write-up does not have to match this example exactly by any means. You are free to edit and reformat as you wish. This just supposed to be a 3-page example that was taken from an agriculture based project for Harvard's CS 283 Computer Vision course and has no relevance to the competition prompts.
 
 - **Final Write-Up Requirements:**
   - Must have a **two-column format**.
@@ -37,6 +37,12 @@ An **extended abstract** is a concise summary of a research project or study tha
 1. One member of the team needs to **download the contents of this GitHub repository** as a zip folder.
 2. **Create a new project on Overleaf** by uploading the zip file to their Overleaf account.
 3. **Share the document** with other team members' Overleaf accounts to collaborate and work on the write-up simultaneously.
+4. Mentors will not help you debug your LaTeX code. We recommend you practice before the competition to become familiar with Overleaf and LaTeX.
+5. Edit and reformat this `.tex` file as you wish and MAKE SURE to include your links to the YouTube Video and the Google Colab Notebook.
+   - These links MUST be public or judges will not be able to view or validate your work.
+6. Download the `.tex` file as a PDF once your team has completed the document.
+7. Submit the PDF (and the PDF only) to the **Submission Google Form** that is located on the website's Toolkit.
+8. Congratulate yourself and your team members on participating and successfully completing Harvard's first HDSI Agriculture Datathon! 
 
 ## Important:
 
