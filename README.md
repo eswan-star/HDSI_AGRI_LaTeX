@@ -37,9 +37,11 @@ An **extended abstract** is a concise summary of a research project or study tha
 1. One member of the team needs to **download the contents of this GitHub repository** as a zip folder.
 2. **Create a new project on Overleaf** by uploading the zip file to their Overleaf account.
 3. **Share the document** with other team members' Overleaf accounts to collaborate and work on the write-up simultaneously.
-4. Mentors will not help you debug your LaTeX code. We recommend you practice before the competition to become familiar with Overleaf and LaTeX.
-5. Edit and reformat this `.tex` file as you wish and MAKE SURE to include your links to the YouTube Video and the Google Colab Notebook.
+## Steps During:
+4. Edit and reformat this `.tex` file as you wish and MAKE SURE to include your links to the YouTube Video and the Google Colab Notebook.
    - These links MUST be public or judges will not be able to view or validate your work.
+5. Mentors will not help you debug your LaTeX code. We recommend you practice before the competition to become familiar with Overleaf and LaTeX.
+  ## Steps When Complete:
 6. Download the `.tex` file as a PDF once your team has completed the document.
 7. Submit the PDF (and the PDF only) to the **Submission Google Form** that is located on the website's Toolkit.
 8. Congratulate yourself and your team members on participating and successfully completing Harvard's first HDSI Agriculture Datathon! 
