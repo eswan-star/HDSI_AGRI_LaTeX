@@ -31,8 +31,9 @@ An **extended abstract** is a concise summary of a research project or study tha
   - `exo-pic.sty`
   - `iccv_eso.sty`
   - `iccv.sty`
+  - `ieee.bst`
   
-  **Note:** These files are necessary for formatting the `.tex` file. If they are not included, your `.tex` file will not compile. Learn more about these files [here](https://www.overleaf.com/learn/latex/Understanding_packages_and_class_files).
+  **Note:** These files are necessary for formatting the `.tex` file. If they are not included, your `.tex` file will not compile. Learn more about these files [here](https://www.overleaf.com/learn/latex/Understanding_packages_and_class_files) and [here](https://www.math.wsu.edu/faculty/ddeford/bibtexoutline.pdf).
 
 ## Steps to Begin:
 
