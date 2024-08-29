@@ -42,7 +42,7 @@ An **extended abstract** is a concise summary of a research project or study tha
    - These links MUST be public or judges will not be able to view or validate your work.
 5. Mentors will not help you debug your LaTeX code. We recommend you practice before the competition to become familiar with Overleaf and LaTeX.
   ## Steps When Complete:
-6. Download the `.tex` file as a PDF once your team has completed the document.
+6. Download the `.tex` file as a PDF once your team has completed the document. The PDF file name will be the Overleaf Project name. **Make sure PDF includes your team name.**
 7. Submit the PDF (and the PDF only) to the **Submission Google Form** that is located on the website's Toolkit.
 8. Congratulate yourself and your team members on participating and successfully completing Harvard's first HDSI Agriculture Datathon! 
 
