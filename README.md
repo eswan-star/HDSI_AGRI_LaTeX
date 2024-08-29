@@ -35,7 +35,7 @@ An **extended abstract** is a concise summary of a research project or study tha
 ## Steps to Begin:
 
 1. One member of the team needs to **download the contents of this GitHub repository** as a zip folder.
-2. **Create a new project on Overleaf** by uploading the zip file to their Overleaf account.
+2. **Create a "New Project" on Overleaf** by uploading the zip file to their Overleaf account.
 3. **Share the document** with other team members' Overleaf accounts to collaborate and work on the write-up simultaneously.
 ## Steps During:
 4. Edit and reformat this `.tex` file as you wish and MAKE SURE to include your links to the YouTube Video and the Google Colab Notebook.
