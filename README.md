@@ -2,7 +2,7 @@
 
 **Latex structure required for the HDSI Agri Datathon Write-Up as an extended abstract:**
 
-An **extended abstract** is a concise summary of a research project or study that provides an overview of its objectives, data & methods, results, and conclusions. Typically longer than a standard abstract, it offers more detail while still being brief, often including key figures, tables, or references to support the presented information. An extended abstract is usually used to submit your work for conference presentations. The purpose of this extended abstract is to give judges a clear understanding of your project, allowing them to assess your team's strategy to accomplish the selected prompt.
+An **extended abstract** is a concise summary of a research project or study that provides an overview of its objectives, data & methods, results, and conclusions. Typically longer than a standard abstract, it offers more detail while still being brief, often including key figures, tables, or references to support the presented information. An extended abstract is typically used to submit your work for conference presentations. The purpose of this extended abstract is to give judges a clear understanding of your project, allowing them to assess your team's strategy to accomplish the selected prompt.
 
 ## Instructions for Your Write-Up:
 
