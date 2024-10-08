@@ -8,7 +8,8 @@ An **extended abstract** is a concise summary of a research project or study tha
 
 - **Work in the** `HDSI_AGRI_template.tex` **and** `references.bib` **files for your write-up.**
   - These files provide an example of text, several tables and equations, images that span both columns and span a single column, and a bibliography.
-  - **Note:** Your write-up does not have to match this example exactly by any means. You are free to edit and reformat as you wish. This is only supposed to be a 3-page example with references that was taken from an agriculture based project for Harvard's CS 283 Computer Vision course. It has no relevance to the competition prompts. No code should be included in the write up.
+  - **Note:** Your write-up does not have to match this example exactly by any means. You are free to edit and reformat as you wish. This is only supposed to be a 3-page example with references that was taken from an agriculture based project for Harvard's CS 283 Computer Vision course. It has no relevance to the competition prompts.
+  - No code should be included in the write up.
 
 - **Final Write-Up Requirements:**
   - Must have a **two-column format**.
